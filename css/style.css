@@ -1,0 +1,13 @@
+#main {
+    width: 95%;
+    margin: 0 auto;
+    background-color: rgba(51, 51, 51, 0.13);
+}
+.text-center {
+    text-align: center;
+}
+#image {
+    max-width: 100%;
+    display: block;
+    margin: 0 auto;
+}
